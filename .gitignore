@@ -4,3 +4,4 @@ data/
 .claude/
 model/
 1/
+.gitignore
