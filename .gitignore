@@ -4,4 +4,4 @@ data/
 .claude/
 model/
 1/
-.gitignore
+tensorboard_logs
