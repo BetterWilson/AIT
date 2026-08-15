@@ -3,7 +3,7 @@ data/
 .venv/
 .claude/
 model/
-1/
+data/1/
 tensorboard_logs
 
 # large data / archives
